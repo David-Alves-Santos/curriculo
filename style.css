@@ -87,6 +87,10 @@ li{
     background-color: var(--cor-do-fundo)
 }
 
+a{
+    text-decoration: none;
+}
+
 .objetivo{
     left: 0;
     margin-top: 40px;
