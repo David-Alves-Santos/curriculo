@@ -40,6 +40,7 @@ h3{
     padding-bottom: 15px;
     padding-top: 20px;
 }
+
 .cargo{
     font-family: 'Quicksand', sans-serif;;
     font-size: 35px;
@@ -87,7 +88,8 @@ li{
 }
 
 .objetivo{
-    margin-top: 15px;
+    left: 0;
+    margin-top: 40px;
     padding: 15px 15px 15px 15px;
     width: 910px;
     border: 1px solid whitesmoke;
@@ -101,44 +103,48 @@ li{
 }
 
 .formacao{
+    left: 0;
     font-family: 'Martian Mono', monospace;
     padding: 15px 15px 15px 15px;
     width: 910px;
     border: 1px solid whitesmoke;
     border-radius: 5px;
     position:absolute;
-    margin-top: 120px;
+    margin-top: 138px;
 }
 
 .idioma{
+    left: 0;
     font-family: 'Martian Mono', monospace;
     padding: 15px 15px 15px 15px;
     width: 910px;
     position: absolute;
-    margin-top: 460px;
+    margin-top: 455px;
     border: 1px solid whitesmoke;
     border-radius: 5px;
 }
 
 .informacoes_pessoais{
+    left: 0;
     font-family: 'Martian Mono', monospace;
     padding: 15px 15px 15px 15px;
     width: 910px;
     position: absolute;
-    margin-top: 565px;
+    margin-top: 553px;
     border: 1px solid whitesmoke;
     border-radius: 5px;
 }
 
 .experiencias{
+    left: 0;
     font-family: 'Martian Mono', monospace;
     padding: 15px 15px 15px 15px;
     width: 910px;
     position: absolute;
-    margin-top: 670px;
+    margin-top: 650px;
     border: 1px solid whitesmoke;
     border-radius: 5px;
-    margin-bottom: 150px;
+    
 }
 
 footer{
