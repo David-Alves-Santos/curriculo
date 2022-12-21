@@ -189,7 +189,11 @@ footer{
 
     .dados_endereco{
         
-        font-size: 8px;
+        font-size: 10px;
+    }
+
+    .texto_github{
+        font-size: 7px;
     }
 
     .objetivo, .formacao, .idioma, .informacoes_pessoais, .experiencias{
