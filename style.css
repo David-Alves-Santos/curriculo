@@ -173,6 +173,10 @@ footer{
         font-size: 35px;
     }
 
+    li{
+        font-size: 9px;
+    }
+
     .cargo{
         font-size: 27px;
     }
@@ -185,7 +189,7 @@ footer{
 
     .dados_endereco{
         
-        font-size: 9px;
+        font-size: 8px;
     }
 
     .objetivo, .formacao, .idioma, .informacoes_pessoais, .experiencias{
