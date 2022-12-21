@@ -1,0 +1,148 @@
+:root {
+    --cor-do-fundo: rgb(43,43,43);
+    --cor-nome: greenyellow;
+}
+
+body{
+    margin: 35px auto;
+    width: 940px;
+    position: relative;
+    align-items: center;
+    background-color: var(--cor-do-fundo);
+    border: 1px solid whitesmoke;
+    border-radius: 5px;    
+}
+
+header{
+    
+    margin-top: 5px;
+    margin-bottom: 15px;
+    padding: 15px 0px 15px 15px;
+    background-color: var(--cor-do-fundo);   
+}
+
+h1 {
+    font-family: 'Chau Philomene One', sans-serif;
+    font-size: 45px;
+    color: var(--cor-nome);
+}
+
+h2 {
+    font-family: 'Chau Philomene One', sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    color:greenyellow;
+}
+
+h3{
+    color: seagreen;
+    padding-bottom: 15px;
+    padding-top: 20px;
+}
+.cargo{
+    font-family: 'Quicksand', sans-serif;;
+    font-size: 35px;
+    padding-top: 5px;
+    color: gray;  
+}
+
+.box {
+    margin: 0 auto;
+    align-items: center;
+    position: relative;
+}
+
+.dados_pessoais{
+    color: aliceblue;
+    padding: 20px 0px 20px 15px;
+    width: 40%;
+    display: inline-block;
+    background-color: var(--cor-do-fundo);
+}
+
+li{
+    padding: 7px;
+    color: seagreen;
+}
+
+.dados_endereco{
+    font-family: 'Martian Mono', monospace;
+    color: gray;
+    display: inline-block;
+    padding-left: 10px;
+    font-size: 13px;    
+}
+
+.tamanho_imagem{
+    width: 30px;
+}
+
+.dados_profissionais{
+    color: aliceblue;
+    padding: 20px 0px 20px 15px;
+    width: 55%;
+    display: inline-block;
+    background-color: var(--cor-do-fundo)
+}
+
+.objetivo{
+    margin-top: 15px;
+    padding: 15px 15px 15px 15px;
+    width: 910px;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+    position: absolute;
+}
+
+.descricao_area{
+    color:seagreen  ;
+    font-family: 'Martian Mono', monospace;
+}
+
+.formacao{
+    font-family: 'Martian Mono', monospace;
+    padding: 15px 15px 15px 15px;
+    width: 910px;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+    position:absolute;
+    margin-top: 120px;
+}
+
+.idioma{
+    font-family: 'Martian Mono', monospace;
+    padding: 15px 15px 15px 15px;
+    width: 910px;
+    position: absolute;
+    margin-top: 460px;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+}
+
+.informacoes_pessoais{
+    font-family: 'Martian Mono', monospace;
+    padding: 15px 15px 15px 15px;
+    width: 910px;
+    position: absolute;
+    margin-top: 565px;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+}
+
+.experiencias{
+    font-family: 'Martian Mono', monospace;
+    padding: 15px 15px 15px 15px;
+    width: 910px;
+    position: absolute;
+    margin-top: 670px;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+    margin-bottom: 150px;
+}
+
+footer{
+    position: absolute;
+    height: 50px;
+    margin-top: 950px;
+}
