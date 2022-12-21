@@ -156,3 +156,68 @@ footer{
     height: 50px;
     margin-top: 950px;
 }
+
+@media (max-width: 480px){
+    
+   
+    body{
+        width: 95%;
+    }
+
+    header{
+        text-align: center;
+        padding: 10px 0px 0px 0px;
+    }
+
+    h1{
+        font-size: 35px;
+    }
+
+    .cargo{
+        font-size: 27px;
+    }
+
+    .dados_pessoais, .dados_profissionais {
+        width: 99%;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .dados_endereco{
+        
+        font-size: 9px;
+    }
+
+    .objetivo, .formacao, .idioma, .informacoes_pessoais, .experiencias{
+        width: 92%;
+        
+    }
+
+    .objetivo{
+        width: 92%;
+        margin-top: 10px;
+    }
+
+    .formacao{
+        width: 92%;
+        margin-top: 112px;
+    }
+
+    .idioma{
+        width: 92%;
+        margin-top: 408px;
+    }
+
+    .informacoes_pessoais{
+        width: 92%;
+        margin-top: 500px;
+    }
+
+    .experiencias{
+        width: 92%;
+        margin-top: 592px;
+        
+    }
+
+    
+}
